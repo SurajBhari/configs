@@ -1,5 +1,8 @@
 # configs
 
+What this configs for ? 
+A. this is for github.com/splewis/csgo-executes  
+
 So a unnamed company forcefully took configs from me , so i have decided to make them public
 all maps are tested on a mp_maxplayers 10 server for several months 
 i cant find any kind of bug , as they are mostly fixed at the present time 
