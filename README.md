@@ -18,4 +18,8 @@ A. i am most active on discord - AG #7863
 
 Sorry if i am doing anything wrong here, probably cuz i am new to this, and also too young (15 Y/o ;-;)
 
-And do me a favour share this as much as you can :) 
+And do me a favour share this as much as you can :)
+
+I AM AWARE ABOUT NEW CACHE
+
+October 10 is the date said by FMPONE during showmatch , i would start making config of that map on same date , it may take some time cuz i want it to be perfect cuz there are no smokes discovered and all :)
