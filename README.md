@@ -20,6 +20,5 @@ Sorry if i am doing anything wrong here, probably cuz i am new to this, and also
 
 And do me a favour share this as much as you can :)
 
-I AM AWARE ABOUT NEW CACHE
-
-October 10 is the date said by FMPONE during showmatch , i would start making config of that map on same date , it may take some time cuz i want it to be perfect cuz there are no smokes discovered and all :)
+**NOTE**
+**The new cache config is totally in BETA , and is never tested in a full server , Use it on your Current risk , I will update as soon I take it out from BETA <3 
