@@ -21,4 +21,9 @@ Sorry if i am doing anything wrong here, probably cuz i am new to this, and also
 And do me a favour share this as much as you can :)
 
 **NOTE**
-**The new cache config is totally in BETA , and is never tested in a full server , Use it on your Current risk , I will update as soon I take it out from BETA <3 
+
+**New de_cache version added as de_cache(new,tested).cfg **
+
+Special thanks to Kancha ,For helping in Testing & all  , trusted person , Check his servers https://lotgaming.xyz/
+
+:)
