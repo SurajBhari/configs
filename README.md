@@ -27,3 +27,5 @@ And do me a favour share this as much as you can :)
 Special thanks to Kancha ,For helping in Testing & all  , trusted person , Check his servers https://lotgaming.xyz/
 
 :)
+
+Vertigo Still in BETA , I made it's config today(15 Oct. 2019) Cuz of the update, changed every smoke and currently in testing phase hope you understand :) 
