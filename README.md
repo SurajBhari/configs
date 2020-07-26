@@ -16,7 +16,7 @@ A. we are no stranger to it , you know the rules and so do i xD
 Q. Where I can contact you in future ? 
 A. i am most active on discord - AG #7863
 
-Sorry if i am doing anything wrong here, probably cuz i am new to this, and also too young (15 Y/o ;-;)
+Sorry if i am doing anything wrong here, probably cuz i am new to this, and also too young (16 Y/o ;-;)
 
 And do me a favour share this as much as you can :)
 
