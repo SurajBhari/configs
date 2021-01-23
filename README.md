@@ -1,6 +1,9 @@
 # configs
 
+#These configs are now archieved. why ? cuz splewis now provide a better written configs. 
+
 # These spawns are made with keeping atleast 60 seconds round time in mind.
+
 
 What this configs for ? 
 A. this is for github.com/splewis/csgo-executes  
