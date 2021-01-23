@@ -1,6 +1,6 @@
 # configs
 
-#These configs are now archieved. why ? cuz splewis now provide a better written configs. 
+# These configs are now archieved. why ? cuz splewis now provide a better written configs. 
 
 # These spawns are made with keeping atleast 60 seconds round time in mind.
 
@@ -25,12 +25,3 @@ Sorry if i am doing anything wrong here, probably cuz i am new to this, and also
 
 And do me a favour share this as much as you can :)
 
-**NOTE**
-
-**New de_cache version added as de_cache(new,tested).cfg **
-
-Special thanks to Kancha ,For helping in Testing & all  , trusted person , Check his servers https://lotgaming.xyz/
-
-:)
-
-Vertigo Still in BETA , I made it's config today(15 Oct. 2019) Cuz of the update, changed every smoke and currently in testing phase hope you understand :) 
